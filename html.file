@@ -1,71 +1,2280 @@
-<!doctype html><html lang="en-CA"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Calgary Wildlife Help | Local Wildlife Information</title>
-<meta name="description" content="Calgary wildlife information about animals in attics, raccoons, squirrels, bats, skunks, birds, prevention, and connecting with independent local providers.">
-<meta name="robots" content="index,follow,max-image-preview:large">
-<link rel="canonical" href="https://calgarywildlifehelp.com/"><link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <meta name="theme-color" content="#174a35">
-  <link rel="stylesheet" href="/styles.css">
-<meta property="og:title" content="Calgary Wildlife Help"><meta property="og:description" content="Clear local wildlife guides and connections to independent Calgary-area providers."><meta property="og:type" content="website"><meta property="og:url" content="https://calgarywildlifehelp.com/">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "Calgary Wildlife Help", "url": "https://calgarywildlifehelp.com", "description": "An independent educational resource that helps Calgary-area property owners learn about common wildlife issues and connect with independent service providers.", "areaServed": {"@type": "City", "name": "Calgary"}}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Calgary Wildlife Help", "url": "https://calgarywildlifehelp.com", "inLanguage": "en-CA"}</script>
-</head><body><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><div class="container header-inner"><a class="brand" href="/">Calgary Wildlife Help</a>
-<nav class="nav" aria-label="Main navigation">
-  <a href="/">Home</a>
-  <a href="/services/wildlife-removal-calgary.html">Services</a>
-  <a href="/learning-center/">Learning Center</a>
-  <a href="/guides/">Guides</a>
-  <a href="/contact.html">Contact</a>
-  <a class="phone-button" href="tel:+15870000000">(587) 000-0000</a>
-</nav>
-</div></header><main id="main">
-<section class="hero"><div class="container">
-<p class="eyebrow">Independent local information</p>
-<h1>Understand a wildlife problem before choosing a provider</h1>
-<p class="lead">Clear Calgary-focused guides about animals in attics, raccoons, squirrels, bats, skunks, birds, warning signs, prevention, and what to ask a local wildlife professional.</p>
-<div class="actions"><a class="primary-button" href="tel:+15870000000">Call (587) 000-0000</a><a class="secondary-button" href="/contact.html">Request a callback</a></div>
-<p class="trust-note">We do not perform wildlife-control work. Requests may be shared with independent local providers.</p>
-</div></section>
-<section class="section"><div class="container"><h2>Start with the problem you noticed</h2><div class="grid">
-<div class="card"><h3>Animal in the attic</h3><p>Scratching, movement, droppings, odors, or damaged vents may point to an attic entry.</p><a href="/services/animal-in-attic-calgary.html">See common signs</a></div>
-<div class="card"><h3>Raccoon activity</h3><p>Learn about nighttime noise, roof damage, denning behaviour, and why young animals change the removal plan.</p><a href="/services/raccoon-removal-calgary.html">Raccoon guide</a></div>
-<div class="card"><h3>Bat activity</h3><p>Learn why timing and species protection matter and why direct handling should be avoided.</p><a href="/services/bat-removal-calgary.html">Bat guide</a></div>
-<div class="card"><h3>Squirrel activity</h3><p>Review common roofline entry points, daytime sounds, chewing concerns, and prevention steps.</p><a href="/services/squirrel-removal-calgary.html">Squirrel guide</a></div>
-<div class="card"><h3>Skunks under a structure</h3><p>Understand burrows, odor, pets, and safe next steps for a den beneath a deck or shed.</p><a href="/services/skunk-removal-calgary.html">Skunk guide</a></div>
-<div class="card"><h3>Birds in vents or chimneys</h3><p>Learn about nesting material, blocked airflow, seasonal restrictions, and exclusion.</p><a href="/services/bird-removal-calgary.html">Bird guide</a></div>
-</div></div></section>
-<section class="section alt"><div class="container two-col"><article class="content">
-<h2>How this website works</h2>
-<ol><li>Read a guide and identify the signs you are seeing.</li><li>Call or submit the contact form.</li><li>Your request may be sent to an independent provider serving Calgary.</li><li>The provider explains its own availability, inspection process, pricing, and terms.</li></ol>
-<div class="notice"><strong>No surprise price promises:</strong> We do not publish fixed prices because every property, animal, entry point, and repair need is different. Ask the provider for a written scope and estimate.</div>
-</article><aside><h2>Useful questions to ask</h2><ul><li>How will the animal be identified?</li><li>Are young animals likely present?</li><li>What exclusion and repair work is included?</li><li>Is follow-up included?</li><li>What written warranty applies?</li></ul></aside></div></section>
-<section class="section"><div class="container"><h2>Popular learning guides</h2><div class="grid">
-<div class="card"><h3>Scratching in the ceiling</h3><p>Time of day and sound type can help narrow down the likely animal.</p><a href="/learning-center/why-am-i-hearing-scratching-in-my-ceiling.html">Read the guide</a></div>
-<div class="card"><h3>Raccoon attic signs</h3><p>Heavy nighttime movement, damaged vents, odor, and droppings are common clues.</p><a href="/learning-center/signs-of-raccoons-in-attic.html">Read the guide</a></div>
-<div class="card"><h3>Wildlife-removal cost factors</h3><p>Learn what usually affects a quote without relying on a misleading fixed price.</p><a href="/guides/wildlife-removal-cost-calgary.html">Read the cost guide</a></div>
-</div></div></section>
-</main>
-<footer class="site-footer">
-  <div class="container">
-    <div class="footer-grid">
-      <div>
-        <strong>Calgary Wildlife Help</strong>
-        <p>Independent educational resource and lead-connection website for Calgary-area property owners.</p>
-      </div>
-      <div>
-        <strong>Explore</strong><br>
-        <a href="/services/wildlife-removal-calgary.html">Services</a><br>
-        <a href="/learning-center/">Learning Center</a><br>
-        <a href="/guides/">Guides</a>
-      </div>
-      <div>
-        <strong>Legal</strong><br>
-        <a href="/privacy-policy.html">Privacy Policy</a><br>
-        <a href="/terms-of-use.html">Terms of Use</a><br>
-        <a href="/contact.html">Contact</a>
-      </div>
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Calgary Wildlife Help | Local Wildlife Information</title>
+
+  <meta
+    name="description"
+    content="Calgary wildlife information about raccoons, squirrels, bats, skunks, birds, animals in attics, prevention, costs, and connections to independent local providers."
+  >
+
+  <meta
+    name="robots"
+    content="index, follow, max-image-preview:large"
+  >
+
+  <link
+    rel="canonical"
+    href="https://calgarywildlifehelp.com/"
+  >
+
+  <meta
+    name="theme-color"
+    content="#174a35"
+  >
+
+  <meta
+    property="og:type"
+    content="website"
+  >
+
+  <meta
+    property="og:title"
+    content="Calgary Wildlife Help"
+  >
+
+  <meta
+    property="og:description"
+    content="Clear local wildlife information and connections to independent Calgary-area providers."
+  >
+
+  <meta
+    property="og:url"
+    content="https://calgarywildlifehelp.com/"
+  >
+
+  <meta
+    property="og:site_name"
+    content="Calgary Wildlife Help"
+  >
+
+  <meta
+    name="twitter:card"
+    content="summary"
+  >
+
+  <style>
+    :root {
+      --ink: #173126;
+      --muted: #52645c;
+      --brand: #236b4b;
+      --brand-dark: #174a35;
+      --soft: #edf6f0;
+      --line: #d7e4dc;
+      --paper: #ffffff;
+      --accent: #f4b942;
+      --danger: #8b2e2e;
+      --max: 1120px;
+      --radius: 16px;
+      --shadow: 0 10px 30px rgba(22, 58, 42, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--ink);
+      background: #fbfdfb;
+      line-height: 1.65;
+    }
+
+    a {
+      color: var(--brand-dark);
+    }
+
+    a:hover {
+      text-decoration-thickness: 2px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .container {
+      width: min(calc(100% - 32px), var(--max));
+      margin: 0 auto;
+    }
+
+    .skip-link {
+      position: absolute;
+      left: -999px;
+      top: 8px;
+      z-index: 100;
+      background: #ffffff;
+      color: var(--ink);
+      padding: 10px 14px;
+      border-radius: 8px;
+    }
+
+    .skip-link:focus {
+      left: 8px;
+    }
+
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: #ffffff;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .header-inner {
+      min-height: 74px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .brand {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 800;
+      font-size: 1.08rem;
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      flex-wrap: wrap;
+    }
+
+    .nav a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.93rem;
+    }
+
+    .nav a:hover {
+      color: var(--brand);
+    }
+
+    .phone-button,
+    .primary-button {
+      display: inline-block;
+      background: var(--brand);
+      color: #ffffff !important;
+      text-decoration: none;
+      padding: 12px 18px;
+      border-radius: 999px;
+      font-weight: 800;
+      border: 0;
+      cursor: pointer;
+    }
+
+    .phone-button:hover,
+    .primary-button:hover {
+      background: var(--brand-dark);
+    }
+
+    .secondary-button {
+      display: inline-block;
+      border: 2px solid var(--brand);
+      background: #ffffff;
+      color: var(--brand-dark);
+      text-decoration: none;
+      padding: 10px 17px;
+      border-radius: 999px;
+      font-weight: 800;
+    }
+
+    .hero {
+      padding: 76px 0 58px;
+      background:
+        linear-gradient(
+          135deg,
+          #e8f5ec 0%,
+          #ffffff 72%
+        );
+    }
+
+    .eyebrow {
+      margin-bottom: 12px;
+      color: var(--brand);
+      font-size: 0.8rem;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    h1,
+    h2,
+    h3 {
+      line-height: 1.2;
+      margin-top: 0;
+    }
+
+    h1 {
+      max-width: 900px;
+      margin-bottom: 18px;
+      font-size: clamp(2.25rem, 5vw, 4.5rem);
+    }
+
+    h2 {
+      margin-bottom: 18px;
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+    }
+
+    h3 {
+      font-size: 1.2rem;
+    }
+
+    .lead {
+      max-width: 780px;
+      color: var(--muted);
+      font-size: 1.18rem;
+    }
+
+    .actions {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-top: 28px;
+    }
+
+    .trust-note {
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .section {
+      padding: 64px 0;
+    }
+
+    .section.alt {
+      background: var(--soft);
+    }
+
+    .section-heading {
+      max-width: 760px;
+      margin-bottom: 34px;
+    }
+
+    .section-heading p {
+      color: var(--muted);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    .card {
+      padding: 24px;
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .card p {
+      color: var(--muted);
+    }
+
+    .card a {
+      font-weight: 800;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1.45fr 0.75fr;
+      gap: 36px;
+      align-items: start;
+    }
+
+    .content {
+      max-width: 820px;
+    }
+
+    .content h2 {
+      margin-top: 42px;
+    }
+
+    .content h3 {
+      margin-top: 30px;
+    }
+
+    .content li {
+      margin-bottom: 8px;
+    }
+
+    aside {
+      padding: 22px;
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+    }
+
+    .notice {
+      padding: 18px 20px;
+      background: #fff9e8;
+      border-left: 5px solid var(--accent);
+      border-radius: 8px;
+    }
+
+    .danger-notice {
+      padding: 18px 20px;
+      background: #fff2f2;
+      border-left: 5px solid var(--danger);
+      border-radius: 8px;
+    }
+
+    .service-section {
+      scroll-margin-top: 100px;
+    }
+
+    .badge {
+      display: inline-block;
+      margin: 3px;
+      padding: 6px 10px;
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      font-size: 0.82rem;
+      font-weight: 800;
+    }
+
+    .faq details {
+      margin: 12px 0;
+      padding: 16px 18px;
+      background: #ffffff;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+    }
+
+    .faq summary {
+      cursor: pointer;
+      font-weight: 800;
+    }
+
+    .cta {
+      padding: 36px;
+      color: #ffffff;
+      background: var(--brand-dark);
+      border-radius: var(--radius);
+    }
+
+    .cta p {
+      color: #e3f2e9;
+    }
+
+    .cta .secondary-button {
+      color: var(--brand-dark);
+    }
+
+    .form {
+      display: grid;
+      gap: 15px;
+    }
+
+    label {
+      font-weight: 800;
+    }
+
+    input,
+    textarea,
+    select {
+      width: 100%;
+      padding: 13px;
+      font: inherit;
+      background: #ffffff;
+      border: 1px solid #aebfb5;
+      border-radius: 10px;
+    }
+
+    textarea {
+      min-height: 150px;
+      resize: vertical;
+    }
+
+    button {
+      font: inherit;
+    }
+
+    .small {
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .divider {
+      margin: 40px 0;
+      border: 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .legal {
+      max-width: 850px;
+    }
+
+    .legal h2 {
+      margin-top: 36px;
+      font-size: 1.5rem;
+    }
+
+    .site-footer {
+      margin-top: 60px;
+      padding: 48px 0 28px;
+      color: #dbe9e1;
+      background: #10251b;
+    }
+
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr;
+      gap: 28px;
+    }
+
+    .site-footer a {
+      color: #ffffff;
+    }
+
+    .disclaimer {
+      margin-top: 28px;
+      padding-top: 22px;
+      color: #bcd0c4;
+      border-top: 1px solid #345145;
+      font-size: 0.84rem;
+    }
+
+    @media (max-width: 850px) {
+      .site-header {
+        position: static;
+      }
+
+      .header-inner {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 14px 0;
+      }
+
+      .nav {
+        gap: 12px;
+      }
+
+      .grid,
+      .two-col,
+      .footer-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .hero {
+        padding-top: 48px;
+      }
+
+      .phone-button {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Calgary Wildlife Help",
+    "url": "https://calgarywildlifehelp.com/",
+    "description": "An independent educational resource that helps Calgary-area property owners learn about common wildlife issues and connect with independent service providers.",
+    "areaServed": {
+      "@type": "City",
+      "name": "Calgary"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Calgary Wildlife Help",
+    "url": "https://calgarywildlifehelp.com/",
+    "inLanguage": "en-CA"
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What should I do if I hear an animal in my attic?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Keep people and pets away, avoid sealing the entry point, and contact a qualified wildlife provider who can identify the animal and determine whether dependent young are present."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much does wildlife removal cost in Calgary?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pricing depends on the species, access, number of entry points, presence of young animals, repairs, cleanup, equipment, and follow-up. Request a written estimate from the independent provider."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does Calgary Wildlife Help perform wildlife removal?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Calgary Wildlife Help provides general educational information and may connect visitors with independent third-party wildlife providers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I seal an animal entry hole immediately?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Sealing an opening before all animals and dependent young are safely out can trap wildlife inside the building."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+
+<body>
+  <a class="skip-link" href="#main">
+    Skip to content
+  </a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#top">
+        Calgary Wildlife Help
+      </a>
+
+      <nav class="nav" aria-label="Main navigation">
+        <a href="#services">Services</a>
+        <a href="#learning-centre">Learning Centre</a>
+        <a href="#cost-guide">Cost Guide</a>
+        <a href="#contact">Contact</a>
+        <a href="#privacy">Privacy</a>
+
+        <a
+          class="phone-button"
+          href="tel:+15870000000"
+        >
+          (587) 000-0000
+        </a>
+      </nav>
     </div>
-    <p class="disclaimer"><strong>Important:</strong> Calgary Wildlife Help is not a wildlife-control contractor and does not perform inspections, removals, repairs, or emergency services. We provide general educational information and may connect visitors with independent third-party providers. Providers set their own availability, prices, methods, warranties, and service terms. Do not approach or handle wildlife. For immediate danger, suspected rabies exposure, or a medical emergency, contact the appropriate public authority or emergency service.</p>
-    <p class="disclaimer">© 2026 Calgary Wildlife Help. All rights reserved.</p>
-  </div>
-</footer>
-</body></html>
+  </header>
+
+  <main id="main">
+
+    <section class="hero" id="top">
+      <div class="container">
+        <p class="eyebrow">
+          Independent Calgary wildlife information
+        </p>
+
+        <h1>
+          Understand your wildlife problem before choosing a provider
+        </h1>
+
+        <p class="lead">
+          Clear information about raccoons, squirrels, bats,
+          skunks, birds, animals in attics, warning signs,
+          prevention, costs, and questions to ask an independent
+          Calgary wildlife professional.
+        </p>
+
+        <div class="actions">
+          <a
+            class="primary-button"
+            href="tel:+15870000000"
+          >
+            Call (587) 000-0000
+          </a>
+
+          <a
+            class="secondary-button"
+            href="#contact"
+          >
+            Request a callback
+          </a>
+        </div>
+
+        <p class="trust-note">
+          Calgary Wildlife Help does not perform wildlife-control
+          work. Requests may be shared with independent local providers.
+        </p>
+      </div>
+    </section>
+
+    <section class="section" id="services">
+      <div class="container">
+
+        <div class="section-heading">
+          <p class="eyebrow">
+            Wildlife topics
+          </p>
+
+          <h2>
+            Start with the problem you noticed
+          </h2>
+
+          <p>
+            Use these guides to understand common warning signs
+            before speaking with a local provider.
+          </p>
+        </div>
+
+        <div class="grid">
+
+          <article class="card">
+            <h3>
+              Animal in the attic
+            </h3>
+
+            <p>
+              Scratching, movement, droppings, odors, or damaged
+              vents may point to an animal using the attic.
+            </p>
+
+            <a href="#animal-in-attic">
+              Read the attic guide
+            </a>
+          </article>
+
+          <article class="card">
+            <h3>
+              Raccoon activity
+            </h3>
+
+            <p>
+              Learn about nighttime noise, roof damage, denning,
+              droppings, and why young animals affect the plan.
+            </p>
+
+            <a href="#raccoons">
+              Read the raccoon guide
+            </a>
+          </article>
+
+          <article class="card">
+            <h3>
+              Bat activity
+            </h3>
+
+            <p>
+              Learn why timing, species protection, and possible
+              human or pet contact require special care.
+            </p>
+
+            <a href="#bats">
+              Read the bat guide
+            </a>
+          </article>
+
+          <article class="card">
+            <h3>
+              Squirrel activity
+            </h3>
+
+            <p>
+              Review roofline entry points, daytime sounds,
+              chewing concerns, and prevention methods.
+            </p>
+
+            <a href="#squirrels">
+              Read the squirrel guide
+            </a>
+          </article>
+
+          <article class="card">
+            <h3>
+              Skunks under a structure
+            </h3>
+
+            <p>
+              Understand burrows, odor, pets, denning, and safer
+              next steps for a skunk beneath a deck or shed.
+            </p>
+
+            <a href="#skunks">
+              Read the skunk guide
+            </a>
+          </article>
+
+          <article class="card">
+            <h3>
+              Birds in vents or chimneys
+            </h3>
+
+            <p>
+              Learn about nesting material, blocked airflow,
+              active nests, and lawful exclusion.
+            </p>
+
+            <a href="#birds">
+              Read the bird guide
+            </a>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container two-col">
+
+        <article class="content">
+          <h2>
+            How this website works
+          </h2>
+
+          <ol>
+            <li>
+              Read the guide that matches the problem you noticed.
+            </li>
+
+            <li>
+              Call or use the contact form.
+            </li>
+
+            <li>
+              Your request may be shared with an independent provider
+              serving Calgary.
+            </li>
+
+            <li>
+              The provider explains its own availability, inspection
+              process, methods, pricing, warranties, and terms.
+            </li>
+          </ol>
+
+          <div class="notice">
+            <strong>No fixed-price promises:</strong>
+            We do not publish exact prices because every property,
+            animal, access point, repair, and cleanup requirement
+            is different. Ask the provider for a written scope and estimate.
+          </div>
+        </article>
+
+        <aside>
+          <h2>
+            Questions to ask a provider
+          </h2>
+
+          <ul>
+            <li>
+              How will the animal be identified?
+            </li>
+
+            <li>
+              Are young animals likely to be present?
+            </li>
+
+            <li>
+              What removal or exclusion method will be used?
+            </li>
+
+            <li>
+              What repairs are included?
+            </li>
+
+            <li>
+              Is cleanup included?
+            </li>
+
+            <li>
+              Is follow-up included?
+            </li>
+
+            <li>
+              What written warranty applies?
+            </li>
+          </ul>
+        </aside>
+
+      </div>
+    </section>
+
+    <section
+      class="section service-section"
+      id="animal-in-attic"
+    >
+      <div class="container two-col">
+
+        <article class="content">
+          <p class="eyebrow">
+            Calgary attic wildlife
+          </p>
+
+          <h2>
+            Animal in the attic
+          </h2>
+
+          <p>
+            Scratching, movement, odors, droppings, or damage near
+            vents and soffits can indicate wildlife activity in an attic.
+          </p>
+
+          <h3>
+            Clues that help identify the animal
+          </h3>
+
+          <ul>
+            <li>
+              <strong>Time of day:</strong>
+              Daytime movement may suggest squirrels or birds.
+              Heavy nighttime movement may suggest raccoons.
+            </li>
+
+            <li>
+              <strong>Sound:</strong>
+              Fluttering, chirping, chewing, scratching, or heavy
+              thumping may point to different animals.
+            </li>
+
+            <li>
+              <strong>Entry damage:</strong>
+              Damaged soffits, vents, fascia, chimneys, or roof
+              edges may reveal the access point.
+            </li>
+
+            <li>
+              <strong>Droppings:</strong>
+              Do not touch them. Their appearance and location may
+              help a trained provider identify the species.
+            </li>
+          </ul>
+
+          <h3>
+            What not to do
+          </h3>
+
+          <p>
+            Do not enter a confined attic without suitable training
+            and protective equipment. Do not seal an opening until
+            all animals and dependent young are confirmed out.
+          </p>
+        </article>
+
+        <aside>
+          <h3>
+            Common attic animals
+          </h3>
+
+          <span class="badge">Raccoons</span>
+          <span class="badge">Squirrels</span>
+          <span class="badge">Bats</span>
+          <span class="badge">Birds</span>
+          <span class="badge">Mice</span>
+          <span class="badge">Rats</span>
+        </aside>
+
+      </div>
+    </section>
+
+    <section
+      class="section alt service-section"
+      id="raccoons"
+    >
+      <div class="container two-col">
+
+        <article class="content">
+          <p class="eyebrow">
+            Raccoon information
+          </p>
+
+          <h2>
+            Raccoon activity in Calgary homes
+          </h2>
+
+          <p>
+            Raccoons may use attics, chimneys, roof openings, and
+            sheltered areas as denning locations.
+          </p>
+
+          <h3>
+            Common signs
+          </h3>
+
+          <ul>
+            <li>
+              Heavy movement or thumping at night
+            </li>
+
+            <li>
+              Damage around roof vents, soffits, or chimneys
+            </li>
+
+            <li>
+              Large droppings or a strong attic odor
+            </li>
+
+            <li>
+              Disturbed or compressed insulation
+            </li>
+
+            <li>
+              Repeated travel along the roof or fence
+            </li>
+          </ul>
+
+          <h3>
+            Why young raccoons matter
+          </h3>
+
+          <p>
+            A mother may be sheltering with dependent young.
+            A provider should check for this before exclusion or
+            sealing. Removing an adult without accounting for young
+            can create animal-welfare, odor, and property-damage problems.
+          </p>
+
+          <h3>
+            Questions to ask
+          </h3>
+
+          <ul>
+            <li>
+              How will you confirm whether young are present?
+            </li>
+
+            <li>
+              What active and vulnerable entry points will be repaired?
+            </li>
+
+            <li>
+              Is contamination cleanup quoted separately?
+            </li>
+
+            <li>
+              What follow-up and warranty are included?
+            </li>
+          </ul>
+        </article>
+
+        <aside>
+          <h3>
+            Safety reminder
+          </h3>
+
+          <p>
+            Raccoons are wild animals and should not be touched,
+            fed, cornered, or handled.
+          </p>
+
+          <p>
+            Keep children and pets away.
+          </p>
+
+          <p>
+            For a bite, scratch, or suspected rabies exposure,
+            seek prompt medical or public-health guidance.
+          </p>
+        </aside>
+
+      </div>
+    </section>
+
+    <section
+      class="section service-section"
+      id="squirrels"
+    >
+      <div class="container two-col">
+
+        <article class="content">
+          <p class="eyebrow">
+            Squirrel information
+          </p>
+
+          <h2>
+            Squirrels in attics and roof spaces
+          </h2>
+
+          <p>
+            Squirrels commonly enter buildings through damaged
+            soffits, vents, fascia, and gaps near roof edges.
+          </p>
+
+          <h3>
+            Common signs
+          </h3>
+
+          <ul>
+            <li>
+              Fast scratching or scampering during daylight
+            </li>
+
+            <li>
+              Chewing sounds in an attic or wall
+            </li>
+
+            <li>
+              Damage near soffits, vents, or roof edges
+            </li>
+
+            <li>
+              Nesting material in an attic
+            </li>
+
+            <li>
+              Frequent squirrel activity along the roofline
+            </li>
+          </ul>
+
+          <h3>
+            Why chewing matters
+          </h3>
+
+          <p>
+            Squirrels may chew wood, stored items, vents, and wiring.
+            Avoid touching damaged wiring. Ask whether an electrician
+            or another qualified trade should inspect it.
+          </p>
+
+          <h3>
+            Long-term prevention
+          </h3>
+
+          <p>
+            Removal should be followed by secure repair of entry points.
+            Weak vent covers and nearby branches may also need attention.
+          </p>
+        </article>
+
+        <aside>
+          <h3>
+            Important
+          </h3>
+
+          <p>
+            Do not block a suspected squirrel opening until a provider
+            confirms that the adult animals and dependent young are out.
+          </p>
+        </aside>
+
+      </div>
+    </section>
+
+    <section
+      class="section alt service-section"
+      id="bats"
+    >
+      <div class="container two-col">
+
+        <article class="content">
+          <p class="eyebrow">
+            Bat information
+          </p>
+
+          <h2>
+            Bats in Calgary buildings
+          </h2>
+
+          <p>
+            Bats can use narrow openings around rooflines, vents,
+            soffits, walls, and chimneys.
+          </p>
+
+          <h3>
+            Possible signs
+          </h3>
+
+          <ul>
+            <li>
+              Bats leaving a roofline around dusk
+            </li>
+
+            <li>
+              Small droppings below a recurring opening
+            </li>
+
+            <li>
+              Light chirping or movement inside a wall or attic
+            </li>
+
+            <li>
+              Staining around a narrow entry gap
+            </li>
+          </ul>
+
+          <h3>
+            Do not handle a bat
+          </h3>
+
+          <p>
+            Keep people and pets away. A bat found in a living area,
+            especially where direct contact cannot be ruled out,
+            may require guidance from public-health or animal-control
+            authorities.
+          </p>
+
+          <h3>
+            Why timing matters
+          </h3>
+
+          <p>
+            Bats and maternity colonies may be legally protected.
+            Exclusion may be restricted during sensitive periods.
+            A knowledgeable provider should follow current Alberta
+            requirements and species-protection guidance.
+          </p>
+
+          <p>
+            Official resource:
+            <a
+              href="https://www.alberta.ca/bat-management"
+              rel="noopener"
+            >
+              Alberta bat management guidance
+            </a>.
+          </p>
+        </article>
+
+        <aside>
+          <div class="danger-notice">
+            <strong>Possible exposure:</strong>
+            If a bat was found in a room with a sleeping person,
+            child, impaired person, or pet, contact the appropriate
+            health or animal authority before releasing it.
+          </div>
+        </aside>
+
+      </div>
+    </section>
+
+    <section
+      class="section service-section"
+      id="skunks"
+    >
+      <div class="container two-col">
+
+        <article class="content">
+          <p class="eyebrow">
+            Skunk information
+          </p>
+
+          <h2>
+            Skunks under decks, sheds, and porches
+          </h2>
+
+          <p>
+            Protected spaces beneath decks, sheds, steps, and porches
+            may be used as temporary or seasonal dens.
+          </p>
+
+          <h3>
+            Common signs
+          </h3>
+
+          <ul>
+            <li>
+              Persistent skunk odor
+            </li>
+
+            <li>
+              A burrow beneath a deck, porch, shed, or step
+            </li>
+
+            <li>
+              Digging in lawn areas
+            </li>
+
+            <li>
+              Nighttime sightings
+            </li>
+
+            <li>
+              A pet repeatedly focusing on one location
+            </li>
+          </ul>
+
+          <h3>
+            Do not block a den without checking it
+          </h3>
+
+          <p>
+            A den may contain dependent young. Closing the entrance
+            too early can trap animals and create welfare and odor problems.
+          </p>
+
+          <h3>
+            After the animals leave
+          </h3>
+
+          <p>
+            A provider may recommend confirming vacancy, securing
+            the opening, and adding a buried barrier where appropriate.
+          </p>
+
+          <p>
+            Official resource:
+            <a
+              href="https://www.alberta.ca/skunks"
+              rel="noopener"
+            >
+              Alberta skunk guidance
+            </a>.
+          </p>
+        </article>
+
+        <aside>
+          <h3>
+            Reduce the chance of spraying
+          </h3>
+
+          <ul>
+            <li>
+              Keep your distance
+            </li>
+
+            <li>
+              Move slowly
+            </li>
+
+            <li>
+              Bring pets indoors
+            </li>
+
+            <li>
+              Do not corner the animal
+            </li>
+
+            <li>
+              Avoid loud or sudden movements
+            </li>
+          </ul>
+        </aside>
+
+      </div>
+    </section>
+
+    <section
+      class="section alt service-section"
+      id="birds"
+    >
+      <div class="container two-col">
+
+        <article class="content">
+          <p class="eyebrow">
+            Bird information
+          </p>
+
+          <h2>
+            Birds in vents, chimneys, and roof spaces
+          </h2>
+
+          <p>
+            Birds may nest inside vents, chimneys, roof voids,
+            soffits, and other sheltered openings.
+          </p>
+
+          <h3>
+            Common warning signs
+          </h3>
+
+          <ul>
+            <li>
+              Chirping from a vent, chimney, or roof space
+            </li>
+
+            <li>
+              Nesting material at an opening
+            </li>
+
+            <li>
+              Droppings below a vent
+            </li>
+
+            <li>
+              Reduced airflow from an exhaust vent
+            </li>
+
+            <li>
+              Adult birds repeatedly entering the same location
+            </li>
+          </ul>
+
+          <h3>
+            Why identification matters
+          </h3>
+
+          <p>
+            Different bird species and active nests may be legally
+            protected. A provider should identify the situation
+            and use lawful methods.
+          </p>
+
+          <h3>
+            Preventing repeat nesting
+          </h3>
+
+          <p>
+            After lawful removal and once the opening is confirmed
+            empty, damaged covers may be replaced with suitable
+            wildlife-resistant vent protection.
+          </p>
+
+          <p>
+            Official resource:
+            <a
+              href="https://www.canada.ca/en/environment-climate-change/services/avoiding-harm-migratory-birds/reduce-risk-migratory-birds.html"
+              rel="noopener"
+            >
+              Government of Canada migratory bird guidance
+            </a>.
+          </p>
+        </article>
+
+        <aside>
+          <h3>
+            Blocked vents can matter
+          </h3>
+
+          <p>
+            A blocked exhaust vent may reduce airflow and create
+            moisture, appliance, or fire concerns depending on
+            the vent type.
+          </p>
+        </aside>
+
+      </div>
+    </section>
+
+    <section
+      class="section service-section"
+      id="dead-animal"
+    >
+      <div class="container two-col">
+
+        <article class="content">
+          <p class="eyebrow">
+            Odor and removal information
+          </p>
+
+          <h2>
+            Dead animal inside a wall, attic, or crawl space
+          </h2>
+
+          <h3>
+            Common signs
+          </h3>
+
+          <ul>
+            <li>
+              A strong odor concentrated in one area
+            </li>
+
+            <li>
+              Increased fly or insect activity
+            </li>
+
+            <li>
+              A ceiling or wall stain
+            </li>
+
+            <li>
+              Recent animal noises that suddenly stopped
+            </li>
+          </ul>
+
+          <h3>
+            Why locating the source matters
+          </h3>
+
+          <p>
+            Opening walls or ceilings without a plan may cause
+            unnecessary damage. A provider may use the odor pattern,
+            building layout, and inspection tools to narrow the location.
+          </p>
+
+          <h3>
+            Cleanup considerations
+          </h3>
+
+          <p>
+            The scope may include removal, disposal, surface cleaning,
+            odor treatment, and repair. Ask which items are included
+            in the written estimate.
+          </p>
+        </article>
+
+        <aside>
+          <h3>
+            Other trades may be needed
+          </h3>
+
+          <p>
+            Depending on the location, a roofer, carpenter,
+            electrician, insulation contractor, or restoration
+            provider may also be required.
+          </p>
+        </aside>
+
+      </div>
+    </section>
+
+    <section
+      class="section alt"
+      id="learning-centre"
+    >
+      <div class="container">
+
+        <div class="section-heading">
+          <p class="eyebrow">
+            Learning centre
+          </p>
+
+          <h2>
+            Common Calgary wildlife questions
+          </h2>
+
+          <p>
+            Short answers designed to help homeowners understand
+            the next safe step.
+          </p>
+        </div>
+
+        <div class="grid">
+
+          <article class="card">
+            <h3>
+              Why am I hearing scratching in my ceiling?
+            </h3>
+
+            <p>
+              Time of day and sound type can help narrow the
+              likely animal.
+            </p>
+
+            <p>
+              Daytime activity may suggest squirrels or birds.
+              Heavy nighttime movement may suggest raccoons.
+              Light scratching can have several possible causes.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>
+              What animals commonly enter attics?
+            </h3>
+
+            <p>
+              Raccoons, squirrels, bats, birds, mice, and rats
+              may use attics and roof spaces.
+            </p>
+
+            <p>
+              Correct identification matters because the method,
+              timing, and provider may differ.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>
+              When are bats active in Alberta?
+            </h3>
+
+            <p>
+              Bat activity is generally easier to notice during
+              warmer months.
+            </p>
+
+            <p>
+              Exclusion timing depends on species, weather,
+              occupancy, maternity periods, and current rules.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>
+              Do raccoons carry diseases?
+            </h3>
+
+            <p>
+              Raccoons can carry pathogens and parasites.
+              Avoid direct contact and do not handle droppings
+              without suitable training and protection.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>
+              How can I help keep squirrels out?
+            </h3>
+
+            <p>
+              Maintain roofline materials, protect vents,
+              manage nearby branches, and repair gaps after
+              the attic is confirmed empty.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>
+              Should I seal the hole myself?
+            </h3>
+
+            <p>
+              Only after all animals and dependent young are
+              confirmed out and the repair will not block required
+              ventilation or drainage.
+            </p>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <section
+      class="section"
+      id="cost-guide"
+    >
+      <div class="container two-col">
+
+        <article class="content">
+          <p class="eyebrow">
+            Pricing information
+          </p>
+
+          <h2>
+            Wildlife-removal cost factors in Calgary
+          </h2>
+
+          <p>
+            There is no single reliable online price because a
+            simple exterior exclusion and a complex attic den are
+            not the same job.
+          </p>
+
+          <h3>
+            Common quote factors
+          </h3>
+
+          <ul>
+            <li>
+              Inspection and species identification
+            </li>
+
+            <li>
+              Building height and access difficulty
+            </li>
+
+            <li>
+              Number and size of entry points
+            </li>
+
+            <li>
+              Removal or exclusion method
+            </li>
+
+            <li>
+              Presence of dependent young
+            </li>
+
+            <li>
+              Vent, soffit, chimney, fascia, or roof repairs
+            </li>
+
+            <li>
+              Cleanup or insulation work
+            </li>
+
+            <li>
+              Return visits and warranty
+            </li>
+          </ul>
+
+          <h3>
+            How to compare providers
+          </h3>
+
+          <p>
+            Ask for a written scope. Compare what is included,
+            not only the total price. Confirm whether repair materials,
+            follow-up, cleanup, taxes, and warranty are included.
+          </p>
+
+          <div class="notice">
+            <strong>This website does not set prices.</strong>
+            Independent providers determine their own charges,
+            estimates, scope, and service terms.
+          </div>
+        </article>
+
+        <aside>
+          <h3>
+            Ask for these items in writing
+          </h3>
+
+          <ul>
+            <li>
+              Inspection fee
+            </li>
+
+            <li>
+              Removal method
+            </li>
+
+            <li>
+              Number of openings repaired
+            </li>
+
+            <li>
+              Materials used
+            </li>
+
+            <li>
+              Cleanup included
+            </li>
+
+            <li>
+              Follow-up visits
+            </li>
+
+            <li>
+              Warranty length
+            </li>
+
+            <li>
+              Taxes and additional charges
+            </li>
+          </ul>
+        </aside>
+
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container two-col">
+
+        <article class="content">
+          <p class="eyebrow">
+            Insurance questions
+          </p>
+
+          <h2>
+            Does home insurance cover wildlife damage?
+          </h2>
+
+          <p>
+            Coverage depends on the policy, cause of loss,
+            maintenance history, exclusions, and type of damage.
+          </p>
+
+          <p>
+            Some policies may treat sudden damage differently
+            from infestation, gradual damage, cleanup, or
+            preventative repairs.
+          </p>
+
+          <h3>
+            Document the situation
+          </h3>
+
+          <ul>
+            <li>
+              Take safe photographs from accessible areas
+            </li>
+
+            <li>
+              Keep inspection reports and written estimates
+            </li>
+
+            <li>
+              Record when the problem was first noticed
+            </li>
+
+            <li>
+              Ask the insurer before authorizing non-urgent demolition
+            </li>
+          </ul>
+
+          <p>
+            The insurer—not this website or the wildlife provider—
+            determines coverage.
+          </p>
+        </article>
+
+        <aside>
+          <h3>
+            Ask your insurer
+          </h3>
+
+          <ul>
+            <li>
+              What deductible applies?
+            </li>
+
+            <li>
+              What exclusions apply?
+            </li>
+
+            <li>
+              Is pre-approval required?
+            </li>
+
+            <li>
+              What documents are needed?
+            </li>
+
+            <li>
+              Is emergency mitigation covered?
+            </li>
+          </ul>
+        </aside>
+
+      </div>
+    </section>
+
+    <section class="section faq">
+      <div class="container content">
+
+        <p class="eyebrow">
+          Frequently asked questions
+        </p>
+
+        <h2>
+          Quick answers
+        </h2>
+
+        <details>
+          <summary>
+            Does Calgary Wildlife Help perform wildlife removal?
+          </summary>
+
+          <p>
+            No. Calgary Wildlife Help provides general educational
+            information and may connect visitors with independent
+            third-party providers.
+          </p>
+        </details>
+
+        <details>
+          <summary>
+            Is wildlife removal an emergency?
+          </summary>
+
+          <p>
+            Most attic and exterior wildlife issues are urgent but
+            are not medical emergencies. For a bite, scratch,
+            suspected rabies exposure, direct bat contact, or immediate
+            danger, contact the appropriate medical, public-health,
+            animal-control, or emergency authority.
+          </p>
+        </details>
+
+        <details>
+          <summary>
+            Can a provider give a price over the phone?
+          </summary>
+
+          <p>
+            A provider may explain general factors, but a dependable
+            scope often requires an inspection of the animal activity,
+            entry points, building access, and damage.
+          </p>
+        </details>
+
+        <details>
+          <summary>
+            Should I use poison?
+          </summary>
+
+          <p>
+            Poison can create animal-welfare, legal, odor,
+            secondary-exposure, and property-damage risks.
+            Ask a qualified provider about lawful and humane options.
+          </p>
+        </details>
+
+        <details>
+          <summary>
+            Will sealing one opening solve the problem?
+          </summary>
+
+          <p>
+            Only if all active and vulnerable entry points are assessed,
+            no animals are trapped inside, and the repair uses materials
+            appropriate for the building component.
+          </p>
+        </details>
+
+        <details>
+          <summary>
+            How long does wildlife removal take?
+          </summary>
+
+          <p>
+            The timeline depends on the species, season, weather,
+            building access, dependent young, repairs, monitoring,
+            and follow-up requirements.
+          </p>
+        </details>
+
+      </div>
+    </section>
+
+    <section class="section" id="contact">
+      <div class="container">
+
+        <div class="cta">
+          <h2>
+            Describe the wildlife problem
+          </h2>
+
+          <p>
+            Call or leave your information below. Your request may
+            be shared with an independent local provider who can
+            discuss availability, inspection, pricing, and next steps.
+          </p>
+
+          <div class="actions">
+            <a
+              class="primary-button"
+              href="tel:+15870000000"
+            >
+              Call (587) 000-0000
+            </a>
+
+            <a
+              class="secondary-button"
+              href="mailto:hello@calgarywildlifehelp.com"
+            >
+              Email Calgary Wildlife Help
+            </a>
+          </div>
+        </div>
+
+        <div class="two-col" style="margin-top: 40px;">
+
+          <article class="content">
+            <h2>
+              Request a callback
+            </h2>
+
+            <p>
+              This form opens your email application. A dedicated
+              website form service can be connected later.
+            </p>
+
+            <form
+              class="form"
+              action="mailto:hello@calgarywildlifehelp.com"
+              method="post"
+              enctype="text/plain"
+            >
+
+              <label for="name">
+                Name
+              </label>
+
+              <input
+                id="name"
+                name="Name"
+                type="text"
+                autocomplete="name"
+                required
+              >
+
+              <label for="phone">
+                Phone number
+              </label>
+
+              <input
+                id="phone"
+                name="Phone"
+                type="tel"
+                autocomplete="tel"
+                required
+              >
+
+              <label for="email">
+                Email address
+              </label>
+
+              <input
+                id="email"
+                name="Email"
+                type="email"
+                autocomplete="email"
+              >
+
+              <label for="area">
+                Calgary neighbourhood or nearby community
+              </label>
+
+              <input
+                id="area"
+                name="Area"
+                type="text"
+              >
+
+              <label for="issue">
+                What are you hearing or seeing?
+              </label>
+
+              <textarea
+                id="issue"
+                name="Wildlife issue"
+                required
+              ></textarea>
+
+              <label>
+                <input
+                  style="width: auto;"
+                  type="checkbox"
+                  name="Consent"
+                  value="Yes"
+                  required
+                >
+
+                I understand that my request may be shared with
+                an independent local provider.
+              </label>
+
+              <button
+                class="primary-button"
+                type="submit"
+              >
+                Prepare email request
+              </button>
+            </form>
+          </article>
+
+          <aside>
+            <div class="danger-notice">
+              <strong>Do not use this form for emergencies.</strong>
+
+              <p>
+                For a bite, scratch, suspected rabies exposure,
+                direct bat contact, immediate danger, or a medical
+                emergency, contact the appropriate public authority
+                or emergency service.
+              </p>
+            </div>
+          </aside>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt" id="privacy">
+      <div class="container legal">
+
+        <p class="eyebrow">
+          Privacy
+        </p>
+
+        <h2>
+          Privacy Policy
+        </h2>
+
+        <p>
+          Effective date: June 17, 2026
+        </p>
+
+        <h2>
+          Information we may collect
+        </h2>
+
+        <p>
+          When you call, email, or submit information, Calgary Wildlife
+          Help may receive your name, phone number, email address,
+          general location, description of the wildlife issue, call
+          metadata, and other information you choose to provide.
+        </p>
+
+        <h2>
+          How information may be used
+        </h2>
+
+        <p>
+          Information may be used to respond to your request,
+          operate and improve the website, prevent abuse, measure
+          lead quality, and connect you with an independent provider.
+        </p>
+
+        <p>
+          Your request may be shared with one or more independent
+          providers that may serve your area.
+        </p>
+
+        <h2>
+          Call tracking
+        </h2>
+
+        <p>
+          Calls to a tracking number may be logged or recorded where
+          lawful. Any legally required notice or consent should be
+          configured with the phone provider before recording calls.
+        </p>
+
+        <h2>
+          Cookies and analytics
+        </h2>
+
+        <p>
+          This version of the website does not require advertising
+          cookies. Privacy-conscious analytics may be added later.
+          Additional disclosure and consent may be required before
+          enabling advertising, retargeting, or non-essential tracking.
+        </p>
+
+        <h2>
+          Retention and security
+        </h2>
+
+        <p>
+          Personal information should be kept only as long as reasonably
+          needed for the stated purpose, legal obligations, dispute
+          resolution, and abuse prevention. No storage method is
+          completely secure.
+        </p>
+
+        <h2>
+          Your choices
+        </h2>
+
+        <p>
+          You may ask about, correct, or request deletion of personal
+          information, subject to applicable legal and operational
+          requirements, by emailing:
+        </p>
+
+        <p>
+          <a href="mailto:hello@calgarywildlifehelp.com">
+            hello@calgarywildlifehelp.com
+          </a>
+        </p>
+
+        <h2>
+          Children
+        </h2>
+
+        <p>
+          This website is not directed to children.
+        </p>
+
+        <div class="notice">
+          <strong>Legal review recommended:</strong>
+          This privacy wording is a general template and is not legal
+          advice. Obtain appropriate legal review before collecting,
+          recording, sharing, or selling leads.
+        </div>
+
+      </div>
+    </section>
+
+    <section class="section" id="terms">
+      <div class="container legal">
+
+        <p class="eyebrow">
+          Terms
+        </p>
+
+        <h2>
+          Terms of Use
+        </h2>
+
+        <p>
+          Effective date: June 17, 2026
+        </p>
+
+        <h2>
+          Educational and referral role
+        </h2>
+
+        <p>
+          Calgary Wildlife Help provides general information and may
+          connect visitors with independent third-party providers.
+          Calgary Wildlife Help does not perform, supervise, guarantee,
+          or warrant provider services.
+        </p>
+
+        <h2>
+          No professional advice
+        </h2>
+
+        <p>
+          Website information is general and may not fit your property,
+          animal, health, legal, insurance, or safety situation.
+          Seek qualified advice when needed.
+        </p>
+
+        <h2>
+          Independent providers
+        </h2>
+
+        <p>
+          Providers are responsible for their licensing, insurance,
+          methods, pricing, estimates, contracts, taxes, warranties,
+          workmanship, safety, and legal compliance.
+        </p>
+
+        <p>
+          Visitors should independently verify a provider before hiring.
+        </p>
+
+        <h2>
+          No guaranteed availability or result
+        </h2>
+
+        <p>
+          Calling or submitting a request does not guarantee a response,
+          appointment, price, outcome, service area, or completed service.
+        </p>
+
+        <h2>
+          Emergency limitation
+        </h2>
+
+        <p>
+          Do not rely on this website for emergencies. Contact the
+          appropriate emergency, medical, health, animal-control,
+          or public authority.
+        </p>
+
+        <h2>
+          Acceptable use
+        </h2>
+
+        <p>
+          Do not submit false information, interfere with the website,
+          scrape personal information, attempt unauthorized access,
+          or use the website unlawfully.
+        </p>
+
+        <h2>
+          Liability
+        </h2>
+
+        <p>
+          To the extent permitted by law, the website owner is not
+          responsible for losses arising from reliance on general
+          information, third-party services, provider conduct,
+          service delays, or website interruption.
+        </p>
+
+        <div class="notice">
+          <strong>Legal review recommended:</strong>
+          These terms are a general template and are not legal advice.
+          Obtain legal review for your ownership structure, jurisdiction,
+          call recording, privacy obligations, and lead-sharing practices.
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+
+      <div class="footer-grid">
+
+        <div>
+          <strong>
+            Calgary Wildlife Help
+          </strong>
+
+          <p>
+            Independent educational information and connections
+            to third-party wildlife providers serving Calgary
+            and nearby communities.
+          </p>
+        </div>
+
+        <div>
+          <strong>
+            Explore
+          </strong>
+
+          <br>
+
+          <a href="#services">
+            Wildlife topics
+          </a>
+
+          <br>
+
+          <a href="#learning-centre">
+            Learning centre
+          </a>
+
+          <br>
+
+          <a href="#cost-guide">
+            Cost guide
+          </a>
+
+          <br>
+
+          <a href="#contact">
+            Contact
+          </a>
+        </div>
+
+        <div>
+          <strong>
+            Legal
+          </strong>
+
+          <br>
+
+          <a href="#privacy">
+            Privacy Policy
+          </a>
+
+          <br>
+
+          <a href="#terms">
+            Terms of Use
+          </a>
+
+          <br>
+
+          <a href="mailto:hello@calgarywildlifehelp.com">
+            Email us
+          </a>
+        </div>
+
+      </div>
+
+      <p class="disclaimer">
+        <strong>Important:</strong>
+        Calgary Wildlife Help is not a wildlife-control contractor
+        and does not perform inspections, removals, repairs, medical
+        services, or emergency services. We provide general educational
+        information and may connect visitors with independent third-party
+        providers. Providers set their own availability, prices, methods,
+        warranties, and service terms. Do not approach or handle wildlife.
+        For immediate danger, suspected rabies exposure, direct bat contact,
+        or a medical emergency, contact the appropriate public authority
+        or emergency service.
+      </p>
+
+      <p class="disclaimer">
+        © 2026 Calgary Wildlife Help. All rights reserved.
+      </p>
+
+    </div>
+  </footer>
+</body>
+</html>
